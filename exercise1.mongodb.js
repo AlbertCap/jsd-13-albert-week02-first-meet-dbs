@@ -1,3 +1,4 @@
+//find&findOne
 use("sample_mflix");
 
 //db.comments.find();
