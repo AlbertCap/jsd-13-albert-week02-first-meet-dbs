@@ -1,0 +1,802 @@
+[
+  {
+    "_id": { "$oid": "65b000000000000000000001" },
+    "name": "บอร์ดเกมเศรษฐีน้อย: สร้างเนื้อสร้างตัว",
+    "type": "physical",
+    "price": 590,
+    "stock": 150,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000002" },
+    "name": "การ์ดเกมออมเงินแสนสนุก",
+    "type": "physical",
+    "price": 350,
+    "stock": 85,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000003" },
+    "name": "เกมกระดานพ่อค้าตัวจิ๋ว",
+    "type": "physical",
+    "price": 490,
+    "stock": 42,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000004" },
+    "name": "บอร์ดเกมผจญภัยในโลกการเงิน",
+    "type": "physical",
+    "price": 750,
+    "stock": 12,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000005" },
+    "name": "บอร์ดเกมบริหารร้านขนมหวาน",
+    "type": "physical",
+    "price": 620,
+    "stock": 110,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000006" },
+    "name": "การ์ดเกมจับคู่รายรับรายจ่าย",
+    "type": "physical",
+    "price": 300,
+    "stock": 200,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000007" },
+    "name": "เกมกระดานวางแผนการเรียนและการออม",
+    "type": "physical",
+    "price": 550,
+    "stock": 60,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000008" },
+    "name": "บอร์ดเกมครอบครัวนักลงทุน",
+    "type": "physical",
+    "price": 800,
+    "stock": 25,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000009" },
+    "name": "เกมจำลองสหกรณ์โรงเรียน",
+    "type": "physical",
+    "price": 680,
+    "stock": 38,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000010" },
+    "name": "บอร์ดเกมเส้นทางเศรษฐีจิ๋ว",
+    "type": "physical",
+    "price": 720,
+    "stock": 55,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000011" },
+    "name": "การ์ดเกมปกป้องเงินออมจากปีศาจฟุ่มเฟือย",
+    "type": "physical",
+    "price": 320,
+    "stock": 180,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000012" },
+    "name": "บอร์ดเกมสร้างเมืองด้วยเงินออม",
+    "type": "physical",
+    "price": 790,
+    "stock": 14,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000013" },
+    "name": "เกมกระดานตลาดนัดวัยซน",
+    "type": "physical",
+    "price": 450,
+    "stock": 90,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000014" },
+    "name": "บอร์ดเกมโรงงานผลิตเงิน",
+    "type": "physical",
+    "price": 580,
+    "stock": 72,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000015" },
+    "name": "บอร์ดเกมภารกิจพิชิตหนี้",
+    "type": "physical",
+    "price": 650,
+    "stock": 33,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000016" },
+    "name": "การ์ดเกมสอนลูกรู้จักเงิน",
+    "type": "physical",
+    "price": 380,
+    "stock": 150,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000017" },
+    "name": "บอร์ดเกมฟาร์มแสนสุข: เรียนรู้กำไรขาดทุน",
+    "type": "physical",
+    "price": 750,
+    "stock": 48,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000018" },
+    "name": "เกมกระดานออมวันละนิด",
+    "type": "physical",
+    "price": 400,
+    "stock": 115,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000019" },
+    "name": "บอร์ดเกมประหยัดพลังงานประหยัดเงิน",
+    "type": "physical",
+    "price": 590,
+    "stock": 88,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000020" },
+    "name": "บอร์ดเกมธนาคารของฉัน",
+    "type": "physical",
+    "price": 690,
+    "stock": 65,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000021" },
+    "name": "การ์ดเกมเศรษฐศาสตร์เบื้องต้นวัยจิ๋ว",
+    "type": "physical",
+    "price": 350,
+    "stock": 130,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000022" },
+    "name": "เกมจำลองอาชีพในฝันและการสร้างรายได้",
+    "type": "physical",
+    "price": 780,
+    "stock": 22,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000023" },
+    "name": "บอร์ดเกมสวนสนุกนักบริหาร",
+    "type": "physical",
+    "price": 640,
+    "stock": 70,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000024" },
+    "name": "บอร์ดเกมแข่งกันออมเงิน",
+    "type": "physical",
+    "price": 480,
+    "stock": 95,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000025" },
+    "name": "บอร์ดเกมแบ่งปันและลงทุน",
+    "type": "physical",
+    "price": 550,
+    "stock": 40,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000026" },
+    "name": "การ์ดเกมช้อปปิ้งอย่างชาญฉลาด",
+    "type": "physical",
+    "price": 310,
+    "stock": 160,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000027" },
+    "name": "บอร์ดเกมตั้งเป้าหมายทางการเงิน",
+    "type": "physical",
+    "price": 620,
+    "stock": 58,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000028" },
+    "name": "เกมกระดานนักธุรกิจรุ่นจิ๋ว",
+    "type": "physical",
+    "price": 740,
+    "stock": 28,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000029" },
+    "name": "บอร์ดเกมผจญภัยล่าขุมทรัพย์ออมสิน",
+    "type": "physical",
+    "price": 590,
+    "stock": 105,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000030" },
+    "name": "การ์ดเกมรู้จักธนบัตรและเหรียญ",
+    "type": "physical",
+    "price": 300,
+    "stock": 190,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000031" },
+    "name": "บอร์ดเกมกองทุนสัตว์เลี้ยง",
+    "type": "physical",
+    "price": 680,
+    "stock": 45,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000032" },
+    "name": "บอร์ดเกมหยอดกระปุกหมูทองคำ",
+    "type": "physical",
+    "price": 450,
+    "stock": 125,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000033" },
+    "name": "เกมกระดานสร้างนิสัยเศรษฐี",
+    "type": "physical",
+    "price": 720,
+    "stock": 35,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000034" },
+    "name": "บอร์ดเกมรายได้หลายทาง",
+    "type": "physical",
+    "price": 660,
+    "stock": 50,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000035" },
+    "name": "บอร์ดเกมหนูน้อยขายน้ำมะนาว",
+    "type": "physical",
+    "price": 490,
+    "stock": 82,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000036" },
+    "name": "การ์ดเกมจับฉลากการเงิน",
+    "type": "physical",
+    "price": 320,
+    "stock": 140,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000037" },
+    "name": "บอร์ดเกมบริหารเวลาและเงินทอง",
+    "type": "physical",
+    "price": 550,
+    "stock": 66,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000038" },
+    "name": "บอร์ดเกมกอบกู้เมืองด้วยการลงทุน",
+    "type": "physical",
+    "price": 790,
+    "stock": 18,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000039" },
+    "name": "เกมจำลองเศรษฐกิจชุมชน",
+    "type": "physical",
+    "price": 710,
+    "stock": 42,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000040" },
+    "name": "บอร์ดเกมตลาดหุ้นสำหรับเด็ก",
+    "type": "physical",
+    "price": 800,
+    "stock": 20,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000041" },
+    "name": "บอร์ดเกมครอบครัวมีตังค์",
+    "type": "physical",
+    "price": 600,
+    "stock": 75,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000042" },
+    "name": "การ์ดเกมคำนวณเงินทอน",
+    "type": "physical",
+    "price": 340,
+    "stock": 110,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000043" },
+    "name": "บอร์ดเกมจ่ายภาษีพัฒนาเมือง",
+    "type": "physical",
+    "price": 680,
+    "stock": 52,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000044" },
+    "name": "บอร์ดเกมเงินงอกเงย",
+    "type": "physical",
+    "price": 540,
+    "stock": 86,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000045" },
+    "name": "เกมกระดานสร้างวินัยการเงิน",
+    "type": "physical",
+    "price": 420,
+    "stock": 130,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000046" },
+    "name": "บอร์ดเกมรถไฟสายการออม",
+    "type": "physical",
+    "price": 590,
+    "stock": 68,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000047" },
+    "name": "บอร์ดเกมสมุดบัญชีวิเศษ",
+    "type": "physical",
+    "price": 500,
+    "stock": 94,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000048" },
+    "name": "การ์ดเกมเงินทองของมีค่า",
+    "type": "physical",
+    "price": 390,
+    "stock": 105,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000049" },
+    "name": "บอร์ดเกมภารกิจซื้อบ้าน",
+    "type": "physical",
+    "price": 750,
+    "stock": 30,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000050" },
+    "name": "เกมกระดานห้างสรรพสินค้าจำลอง",
+    "type": "physical",
+    "price": 630,
+    "stock": 55,
+    "digital_asset_url": ""
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000051" },
+    "name": "นิทานภาพ: หมูน้อยกับกระปุกออมสินเวทมนตร์",
+    "type": "digital",
+    "price": 120,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/magic-piggy-bank.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000052" },
+    "name": "วิดีโอสอน: เงินมาจากไหน",
+    "type": "digital",
+    "price": 199,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/where-money-comes-from.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000053" },
+    "name": "อีบุ๊ก: วางแผนการเงินฉบับอนุบาล",
+    "type": "digital",
+    "price": 99,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/kindergarten-finance.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000054" },
+    "name": "นิทานภาพเชิงโต้ตอบ: กระต่ายน้อยนักลงทุน",
+    "type": "digital",
+    "price": 150,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/investing-bunny.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000055" },
+    "name": "วิดีโอสอน: แยกแยะความจำเป็นและความต้องการ",
+    "type": "digital",
+    "price": 250,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/needs-vs-wants.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000056" },
+    "name": "อีบุ๊ก: 10 วิธีออมเงินสำหรับเด็กประถม",
+    "type": "digital",
+    "price": 89,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/10-saving-tips.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000057" },
+    "name": "นิทานภาพ: หมีน้อยผู้ไม่เคยเก็บเงิน",
+    "type": "digital",
+    "price": 110,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/bear-never-saves.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000058" },
+    "name": "วิดีโอสอน: รู้จักธนาคารคืออะไร",
+    "type": "digital",
+    "price": 180,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/what-is-bank.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000059" },
+    "name": "นิทานภาพเชิงโต้ตอบ: แม่ไก่ออกไข่เป็นทองคำ",
+    "type": "digital",
+    "price": 140,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/golden-egg-hen.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000060" },
+    "name": "อีบุ๊ก: นิทานการเงินก่อนนอน",
+    "type": "digital",
+    "price": 130,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/bedtime-finance-stories.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000061" },
+    "name": "วิดีโอสอน: การทำบัญชีรายรับรายจ่ายง่ายๆ",
+    "type": "digital",
+    "price": 220,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/basic-accounting.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000062" },
+    "name": "นิทานภาพ: กบฏขนมหวานกับการออมเงิน",
+    "type": "digital",
+    "price": 115,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/candy-rebellion.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000063" },
+    "name": "อีบุ๊ก: คู่มือเศรษฐีน้อยวัยใส",
+    "type": "digital",
+    "price": 160,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/young-rich-guide.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000064" },
+    "name": "วิดีโอสอน: ทำไมเราต้องประหยัด",
+    "type": "digital",
+    "price": 190,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/why-we-save.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000065" },
+    "name": "นิทานภาพเชิงโต้ตอบ: มังกรผู้พิทักษ์ขุมทรัพย์",
+    "type": "digital",
+    "price": 145,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/dragon-treasure.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000066" },
+    "name": "นิทานภาพ: ค่าขนมของช้างน้อย",
+    "type": "digital",
+    "price": 105,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/elephant-allowance.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000067" },
+    "name": "อีบุ๊ก: สอนลูกลงทุนผ่านนิทาน",
+    "type": "digital",
+    "price": 135,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/investing-stories.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000068" },
+    "name": "วิดีโอสอน: เงินเฟ้อคืออะไร (ฉบับเด็ก)",
+    "type": "digital",
+    "price": 240,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/inflation-for-kids.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000069" },
+    "name": "นิทานภาพ: การผจญภัยของเหรียญสิบบาท",
+    "type": "digital",
+    "price": 95,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/10-baht-adventure.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000070" },
+    "name": "นิทานภาพเชิงโต้ตอบ: พ่อค้าน้อยในป่าใหญ่",
+    "type": "digital",
+    "price": 155,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/forest-merchant.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000071" },
+    "name": "วิดีโอสอน: เคล็ดลับเก็บเงินซื้อของเล่น",
+    "type": "digital",
+    "price": 185,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/saving-for-toys.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000072" },
+    "name": "นิทานภาพ: กระรอกน้อยเตรียมเสบียงฤดูหนาว",
+    "type": "digital",
+    "price": 125,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/squirrel-winter-saving.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000073" },
+    "name": "อีบุ๊ก: ภารกิจพิชิตเป้าหมายการเงิน",
+    "type": "digital",
+    "price": 115,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/financial-goals.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000074" },
+    "name": "วิดีโอสอน: ความแตกต่างระหว่างบัตรเครดิตและเงินสด",
+    "type": "digital",
+    "price": 210,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/credit-vs-cash.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000075" },
+    "name": "นิทานภาพเชิงโต้ตอบ: มดงานผู้ขยันขันแข็ง",
+    "type": "digital",
+    "price": 135,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/hardworking-ant.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000076" },
+    "name": "นิทานภาพ: สิงโตเจ้าป่ากับภาษี",
+    "type": "digital",
+    "price": 130,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/lion-king-taxes.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000077" },
+    "name": "อีบุ๊ก: พจนานุกรมการเงินสำหรับเด็ก",
+    "type": "digital",
+    "price": 170,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/kids-finance-dictionary.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000078" },
+    "name": "วิดีโอสอน: ดอกเบี้ยคือเวทมนตร์",
+    "type": "digital",
+    "price": 230,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/magic-of-interest.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000079" },
+    "name": "นิทานภาพ: นางฟ้าออมสิน",
+    "type": "digital",
+    "price": 110,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/saving-fairy.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000080" },
+    "name": "นิทานภาพเชิงโต้ตอบ: หุ่นยนต์บริหารเงิน",
+    "type": "digital",
+    "price": 160,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/finance-robot.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000081" },
+    "name": "วิดีโอสอน: การแบ่งเงิน 3 กระปุก",
+    "type": "digital",
+    "price": 175,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/3-jars-saving.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000082" },
+    "name": "นิทานภาพ: มนุษย์ต่างดาวเรียนรู้การใช้เงิน",
+    "type": "digital",
+    "price": 120,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/alien-learns-money.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000083" },
+    "name": "อีบุ๊ก: นิทานสองภาษาเรื่องการประหยัด",
+    "type": "digital",
+    "price": 145,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/bilingual-saving-tales.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000084" },
+    "name": "วิดีโอสอน: หาเงินด้วยตัวเองวัยเด็ก",
+    "type": "digital",
+    "price": 200,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/earn-money-kids.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000085" },
+    "name": "นิทานภาพเชิงโต้ตอบ: ค่ายฤดูร้อนนักธุรกิจจิ๋ว",
+    "type": "digital",
+    "price": 165,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/kid-biz-camp.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000086" },
+    "name": "นิทานภาพ: นกฮูกสอนนับเงิน",
+    "type": "digital",
+    "price": 99,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/owl-counting-money.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000087" },
+    "name": "อีบุ๊ก: แบบฝึกหัดการเงินแสนสนุก",
+    "type": "digital",
+    "price": 85,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/fun-finance-workbook.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000088" },
+    "name": "วิดีโอสอน: การบริจาคและการแบ่งปัน",
+    "type": "digital",
+    "price": 180,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/donate-and-share.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000089" },
+    "name": "นิทานภาพ: ต้นไม้เงินทองของลิงน้อย",
+    "type": "digital",
+    "price": 115,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/monkey-money-tree.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000090" },
+    "name": "นิทานภาพเชิงโต้ตอบ: เจ้าหญิงผู้สร้างแบรนด์",
+    "type": "digital",
+    "price": 150,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/princess-brand.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000091" },
+    "name": "วิดีโอสอน: ประวัติศาสตร์ของเงิน (แอนิเมชัน)",
+    "type": "digital",
+    "price": 250,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/history-of-money.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000092" },
+    "name": "นิทานภาพ: เมื่อของเล่นราคาแพงเกินไป",
+    "type": "digital",
+    "price": 105,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/expensive-toys.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000093" },
+    "name": "อีบุ๊ก: บทเรียนการเงินจากคุณปู่",
+    "type": "digital",
+    "price": 125,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/grandpa-finance-lessons.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000094" },
+    "name": "วิดีโอสอน: ลงทุนในความรู้",
+    "type": "digital",
+    "price": 210,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/investing-in-knowledge.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000095" },
+    "name": "นิทานภาพเชิงโต้ตอบ: ผจญภัยเกาะโจรสลัดนักออม",
+    "type": "digital",
+    "price": 170,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/saver-pirate-island.html"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000096" },
+    "name": "นิทานภาพ: หมีขาวกับสหกรณ์ขั้วโลก",
+    "type": "digital",
+    "price": 130,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/polar-bear-coop.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000097" },
+    "name": "อีบุ๊ก: เคล็ดลับการใช้เงินอย่างฉลาด",
+    "type": "digital",
+    "price": 90,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/smart-spending.pdf"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000098" },
+    "name": "วิดีโอสอน: การลงทุนในสินทรัพย์คืออะไร",
+    "type": "digital",
+    "price": 240,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/videos/what-are-assets.mp4"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000099" },
+    "name": "นิทานภาพ: ครอบครัวเพนกวินนักวางแผน",
+    "type": "digital",
+    "price": 115,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/ebooks/penguin-planners.epub"
+  },
+  {
+    "_id": { "$oid": "65b000000000000000000100" },
+    "name": "นิทานภาพเชิงโต้ตอบ: เมืองเวทมนตร์แห่งการเงิน",
+    "type": "digital",
+    "price": 180,
+    "stock": null,
+    "digital_asset_url": "https://cdn.example.com/interactive/magic-finance-city.html"
+  }
+]
